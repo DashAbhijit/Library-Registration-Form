@@ -39,7 +39,7 @@ import com.csmtech.service.SubscriptionService;
 import com.csmtech.util.MailUtil;
 
 /**
- * @author bijayashree.bilas
+ * @author Abhijit Dash
  *
  */
 @RequestMapping("/form")
